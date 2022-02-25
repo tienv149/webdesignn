@@ -1,0 +1,771 @@
+.cach {
+    margin: 5%;
+}
+
+.le {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.top1 {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    height: 35px;
+    margin: 0;
+    background-color: gainsboro;
+}
+
+.help img {
+    position: relative;
+    float: left;
+    padding-left: 10%;
+    margin-right: 10px;
+    padding-top: 6px;
+}
+
+.help a {
+    position: relative;
+    text-decoration: none;
+    color: gray;
+    top: 6px;
+}
+
+.tin-tuc img {
+    position: relative;
+    float: left;
+    padding-left: 120px;
+    bottom: 10px;
+    margin-right: 10px;
+}
+
+.tin-tuc a {
+    position: relative;
+    text-decoration: none;
+    color: gray;
+    bottom: 10px;
+}
+
+.sale {
+    position: absolute;
+    right: 37%;
+    bottom: 10px;
+}
+
+.sale img {
+    margin-right: 8px;
+    padding-top: 10px;
+    float: left;
+}
+
+.sale a {
+    text-decoration: none;
+    color: gray;
+    padding-top: 10px;
+    float: left;
+}
+
+.log-in {
+    position: absolute;
+    right: 23%;
+    bottom: 10px;
+}
+
+.log-out {
+    position: absolute;
+    right: 10%;
+    bottom: 10px;
+}
+
+.log-in img {
+    margin-right: 8px;
+    padding-top: 10px;
+    float: left;
+}
+
+.log-in a {
+    text-decoration: none;
+    color: gray;
+    float: left;
+    padding-top: 10px;
+}
+
+.log-out a {
+    text-decoration: none;
+    color: gray;
+    float: left;
+    padding-top: 10px;
+}
+
+.log-out img {
+    margin-right: 8px;
+    padding-top: 10px;
+    float: left;
+}
+
+.top2 {
+    float: left;
+    background-color: #f8f8f8;
+    width: 100%;
+    margin-top: 20px;
+    height: 100px;
+}
+
+.logo img {
+    margin-top: 30px;
+    margin-left: 8%;
+}
+
+.top2 .hotline {
+    position: absolute;
+    padding: 10px;
+    top: 80px;
+    width: 200px;
+    right: 25%;
+}
+
+.hotline img {
+    float: left;
+    margin-left: 10px;
+    margin-top: -20px;
+}
+
+.hotline h4 {
+    font-size: 19px;
+    margin-top: -25px;
+    float: left;
+    margin-left: 15px;
+    color: orange;
+}
+
+.hotline p {
+    float: left;
+    margin-top: -10px;
+    margin-left: 56px;
+    margin-top: -25px;
+}
+
+.do-hang img {
+    margin-top: -0px;
+    float: right;
+    margin-right: -40px;
+}
+
+.text {
+    color: orange;
+}
+
+.top2>.do-hang img {
+    position: absolute;
+    right: 22%;
+    top: 70px;
+}
+
+.top2>.do-hang a {
+    position: absolute;
+    right: 13%;
+    top: 75px;
+    color: black;
+    text-decoration: dashed;
+}
+
+.tim-kiem {
+    position: absolute;
+    width: 500px;
+    height: 45px;
+    left: 353.22px;
+    top: 60px;
+    box-shadow: 0 0 2px;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    background-color: white;
+}
+
+.tim-kiem .ke {
+    position: absolute;
+    width: 50px;
+    height: 0px;
+    left: 50px;
+    border: 0.5px solid gainsboro;
+    transform: rotate(90deg);
+    top: 25px;
+}
+
+.tim-kiem img {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.tim-kiem h3 {
+    margin-top: -30px;
+    margin-left: 80px;
+    color: rgba(236, 219, 219, 0.836);
+}
+
+.td-menu {
+    float: left;
+    background-color: aquamarine;
+    height: 50px;
+    width: 100%;
+    margin-top: 2px;
+}
+
+.td-menu img {
+    margin-left: 10%;
+    float: left;
+    margin-top: 5px;
+}
+
+.td-menu h2 {
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.fl a {
+    float: left;
+    text-decoration: none;
+    color: gainsboro;
+    margin-right: 1%;
+}
+
+.fl a:hover {
+    color: red;
+}
+
+.dam a {
+    color: black;
+}
+
+.box-right {
+    margin-top: -20px;
+    margin-right: -43%;
+    float: right;
+    width: 270px;
+    height: 200px;
+    border: 1px solid gray;
+}
+
+.muc1 img {
+    float: left;
+    margin-left: 10px;
+    margin-top: 3px;
+}
+
+.muc1 p {
+    float: left;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.muc2 img {
+    float: left;
+    margin-top: 30px;
+    margin-left: -72%;
+    margin-top: 40px;
+}
+
+.muc2 p {
+    float: left;
+    margin-top: 5px;
+    margin-left: 45px;
+}
+
+.muc3 img {
+    margin-top: 1px;
+    float: left;
+    margin-left: 15px;
+}
+
+.muc3 p {
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.fb-like {
+    margin-left: 25px;
+}
+
+.san-pham {
+    background-color: black;
+    width: 100px;
+    height: 50px;
+}
+
+.san-pham img {
+    margin-top: 20px;
+}
+
+.text-sp {
+    float: left;
+    width: 600px;
+    height: 300px;
+    margin-top: 38px;
+    margin-left: -300px;
+}
+
+.thong-tin h2 {
+    margin-top: -5px;
+}
+
+.thong-tin p {
+    color: red;
+    font-size: 18px;
+    margin-top: -8px;
+}
+
+.gia {
+    font-size: 24px;
+    color: orange;
+}
+
+.thong-tin ul {
+    margin-left: -40px;
+}
+
+.hang {
+    color: red;
+}
+
+.tag {
+    margin-top: 8px;
+}
+
+.text-sp .sl {
+    float: left;
+    margin-top: 13px;
+    font-size: 22px;
+}
+
+.so-luong {
+    float: left;
+    margin-top: 10px;
+    width: 150px;
+    height: 30px;
+    box-shadow: 0 0 2px gray;
+    margin-left: 10px;
+}
+
+.ke-doc1 {
+    border: 0.1px solid gray;
+    height: 28px;
+    margin-top: -23px;
+    margin-left: 20px;
+}
+
+.bot {
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.them {
+    float: right;
+    margin-right: 15px;
+    margin-top: -17px;
+}
+
+.ke-doc2 {
+    float: right;
+    border: 0.1px solid gray;
+    height: 28px;
+    margin-top: -23px;
+    margin-right: 10px;
+}
+
+.so {
+    margin-left: 47%;
+    margin-top: 5px;
+    color: red;
+}
+
+.do-hang {
+    box-shadow: 0 0 1px red;
+    margin-top: 60px;
+    width: 240px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+.do-hang p {
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    color: RED;
+    font-size: 16px;
+}
+
+.mua-ngay {
+    float: right;
+    margin-right: 20%;
+    width: 210px;
+    height: 60px;
+    border-radius: 10px;
+    margin-top: -60px;
+    box-shadow: 0 0 1px red;
+    background-color: red;
+}
+
+.mua-ngay p {
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.do-hang:hover {
+    background-color: red;
+    color: black;
+}
+
+.do-hang p:hover {
+    color: black;
+}
+
+.infor-sp span {
+    color: red;
+}
+
+.infor-sp {
+    margin-top: 15px;
+}
+
+.infor-sp p {
+    margin-top: -5px;
+    font-size: 17px;
+}
+
+.infor-chi-tiet {
+    float: left;
+    background-color: whitesmoke;
+    width: 80%;
+    min-height: 100px;
+    margin-top: 230px;
+}
+
+.infor-chi-tiet h2 {
+    margin-left: 20px;
+}
+
+.infor-chi-tiet span {
+    margin-left: 20px;
+}
+
+.infor-chi-tiet a {
+    color: blue;
+}
+
+.infor-chi-tiet p {
+    margin-left: 20px;
+}
+
+.gioi-thieu {
+    float: left;
+    min-height: 100px;
+    width: 60%;
+    background-color: #f8f8f8;
+    margin-top: 20px;
+}
+
+.gioi-thieu h3 {
+    color: blueviolet;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.gioi-thieu h2 {
+    margin-left: 20px;
+}
+
+.gioi-thieu p {
+    text-align: justify;
+    margin: 10px;
+    line-height: 25px;
+    font-size: 17px;
+}
+
+.mua {
+    float: left;
+    margin-left: 30%;
+    margin-top: 30px;
+    width: 300px;
+    height: 50px;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.mua p {
+    margin-left: 34%;
+    margin-top: 15px;
+}
+
+.sp-cung-loai {
+    float: left;
+    min-height: 100px;
+    width: 60%;
+    background-color: #f8f8f8;
+    margin-top: 20px;
+}
+
+.sp-cung-loai h3 {
+    margin-left: 20px;
+    color: red;
+}
+
+.sp-cung-loai a {
+    float: right;
+    color: black;
+    text-decoration: none;
+    margin-top: -35px;
+    margin-right: 20px;
+}
+
+.sp1 {
+    float: left;
+    width: 18%;
+    min-height: 100px;
+}
+
+.sp2 {
+    float: left;
+    width: 18%;
+    min-height: 100px;
+}
+
+.sp3 {
+    float: left;
+    width: 18%;
+    min-height: 100px;
+}
+
+.sp4 {
+    float: left;
+    width: 18%;
+    min-height: 100px;
+}
+
+.sp5 {
+    float: left;
+    width: 18%;
+    min-height: 100px;
+}
+
+.mr1 {
+    margin-right: 2%;
+}
+
+.sp1 p {
+    margin-left: 10px;
+}
+
+.gia-sp {
+    color: red;
+}
+
+.sp1 .gia-sp {
+    margin-left: 10px;
+}
+
+.sp2 .gia-sp {
+    margin-left: 10px;
+}
+
+.sp3 .gia-sp {
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.sp4 .gia-sp {
+    margin-top: -5px;
+}
+
+.sp5 .gia-sp {
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.sp-doc {
+    float: right;
+    width: 270px;
+    height: 880px;
+    margin-top: -60.5%;
+    margin-right: 10%;
+    background-color: bisque;
+}
+
+.sp-1 img {
+    float: left;
+    margin-left: 25%;
+}
+
+.sp-1 h2 {
+    float: left;
+    margin-left: 30px;
+}
+
+.sp-1 p {
+    float: left;
+    margin: 20px;
+}
+
+.sp-1 span {
+    float: left;
+    margin-left: 20px;
+    color: orange;
+    font-size: 19px;
+}
+
+del {
+    float: left;
+    margin-top: 3px;
+    margin-left: 5px;
+}
+
+.sp-2 img {
+    float: left;
+    margin-left: 25%;
+    margin-top: 50px;
+}
+
+.sp-2 p {
+    float: left;
+    margin-left: 30px;
+}
+
+
+/* .sp-doc .sp-3 img {
+    float: left;
+    margin-left: 25%;
+    margin-top: 50px;
+} */
+
+.dich-vu h4 {
+    margin-left: 10px;
+}
+
+.ho-tro {
+    width: 23%;
+    height: 300px;
+    float: left;
+    margin-top: 20px;
+}
+
+.text {
+    line-height: 30px;
+}
+
+.the-a {
+    margin-left: 10px;
+}
+
+.the-a a {
+    text-decoration: none;
+    color: black;
+}
+
+.the-a p:hover {
+    color: orangered;
+}
+
+.the-a p {
+    line-height: 16px;
+    color: black;
+}
+
+.tro-giup {
+    width: 23%;
+    height: 300px;
+    float: left;
+    margin-top: 20px;
+}
+
+.tai-khoan {
+    width: 23%;
+    height: 300px;
+    float: left;
+    margin-top: 20px;
+}
+
+.bookbuy {
+    width: 23%;
+    height: 300px;
+    float: left;
+    margin-top: 20px;
+}
+
+.nhan-xet {
+    margin-top: 20px;
+    float: left;
+    width: 80%;
+    min-height: 150px;
+    background-color: ghostwhite;
+}
+
+.nhan-xet h3 {
+    margin-left: 20px;
+}
+
+.nhan-xet p {
+    color: red;
+    font-size: 23px;
+    margin-left: 20px;
+}
+
+.cmt {
+    margin-top: 20px;
+    float: left;
+    width: 80%;
+    min-height: 150px;
+    background-color: ghostwhite;
+}
+
+.cmt p {
+    margin-left: 20px;
+}
+
+.cmt hr {
+    margin-left: 30px;
+    margin-right: 57.5%;
+}
+
+.comment input {
+    box-shadow: 0 0 2px gray;
+    width: 40%;
+    float: left;
+    height: 50px;
+    margin-left: 30px;
+}
+
+.ck {
+    float: left;
+    width: 100%;
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 10%;
+    margin-right: 20%;
+}
+
+.ck p {
+    float: left;
+    margin-top: 15px;
+}
+
+.ck img {
+    float: left;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+
+.fr p {
+    float: right;
+    margin-right: 2%;
+}
+
+.fr {
+    margin-right: 20%;
+}
+
+.fr img {
+    float: right;
+    margin-left: 5px;
+}

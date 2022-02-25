@@ -1,0 +1,370 @@
+.top {
+    float: left;
+    margin: auto;
+    width: 100%;
+    height: 50px;
+    background-color: whitesmoke;
+}
+
+.mr {
+    margin-left: 10%;
+}
+
+.banner img {
+    margin: 10px;
+}
+
+.help img {
+    float: left;
+    margin-left: 5%;
+    margin-top: -30px;
+}
+
+.help p {
+    float: left;
+    margin-left: 7%;
+    margin-top: -30px;
+}
+
+.new img {
+    float: left;
+    margin-left: 35px;
+}
+
+.new p {
+    float: left;
+    margin-left: 60px;
+}
+
+.sale img {
+    float: left;
+    margin-left: 50px;
+}
+
+.sale p {
+    float: left;
+    margin-left: 80px;
+}
+
+.hot-line {
+    float: left;
+    margin-left: 50px;
+}
+
+.hot-line p {
+    margin-left: 40px;
+}
+
+.hot-line span {
+    color: red;
+}
+
+.tai-khoan a {
+    text-decoration: none;
+    color: black;
+    float: right;
+    margin: 20px;
+    margin-top: -30px;
+}
+
+
+/* .tai-khoan a2 {
+    text-decoration: none;
+    color: black;
+    float: right;
+    margin-right: 150px;
+    margin-top: -30px;
+}
+
+.tai-khoan a3 {
+    text-decoration: none;
+    color: black;
+    float: right;
+    margin-right: 250px;
+    margin-top: -30px;
+} */
+
+.search img {
+    float: left;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+.the-loai {
+    float: left;
+    min-width: 50px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.the-loai select {
+    float: left;
+    min-width: 70px;
+    height: 30px;
+    border-radius: 05px 0 0 5px;
+}
+
+.nhap input {
+    min-width: 300px;
+    height: 24px;
+}
+
+.nhap {
+    float: right;
+}
+
+.nhap input:focus {
+    box-shadow: 0 0 5px rgba(21, 152, 212, 0.932);
+}
+
+.tim {
+    float: left;
+    width: 50px;
+    height: 30px;
+    border-radius: 0 5px 5px 0;
+    background-color: red;
+    margin-top: 30px;
+}
+
+.tim a {
+    float: left;
+    text-decoration: none;
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+    text-align: center;
+}
+
+.tien-ich select {
+    float: left;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 120px;
+}
+
+.tien-ich select:focus {
+    background-color: gainsboro;
+}
+
+.gio-hang img {
+    float: right;
+    margin-right: 12%;
+    margin-top: -2%;
+}
+
+.gio-hang p {
+    float: right;
+    margin-right: -17%;
+    margin-top: -23px;
+}
+
+.menu img {
+    float: left;
+    margin-left: 10%;
+    margin-top: 1 0px;
+}
+
+.menu hr {
+    width: 100%;
+    position: relative;
+    top: 50px;
+    box-shadow: 0 0 5px gainsboro;
+}
+
+.menu h3 {
+    float: left;
+    margin-top: 5px;
+}
+
+.menu select {
+    float: left;
+    margin-left: 10px;
+    width: 200px;
+    height: 40px;
+    border: 1px solid gray;
+    line-height: 50px;
+}
+
+.menu-con option {
+    min-height: 200px;
+    margin-top: 30px;
+    line-height: 35px;
+}
+
+.thong-tin {
+    margin-left: -15%;
+    margin-top: 50px;
+    float: left;
+}
+
+.thong-tin a {
+    margin: 10px;
+    float: left;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid orange;
+    width: 200px;
+    height: 40px;
+    line-height: 30px;
+    text-decoration: none;
+    color: orangered;
+}
+
+.logo img {
+    margin-top: 10%;
+    margin-left: 15px;
+}
+
+.gioi-th {
+    float: right;
+    width: 700px;
+    min-height: 600px;
+    margin-right: 10%;
+    margin-top: -9%;
+}
+
+.gioi-th h2 {
+    margin-left: 10px;
+}
+
+.gioi-th p {
+    margin-left: 10px;
+}
+
+.gioi-th a {
+    text-decoration: none;
+    color: blue;
+}
+
+.noi-dung img {
+    margin-left: 10px;
+}
+
+.noi-dung p {
+    line-height: 30px;
+}
+
+.noi-dung h5 {
+    margin-left: 10px;
+}
+
+.hang1 a {
+    line-height: 30px;
+    margin-left: 30px;
+}
+
+.hang2 {
+    margin-right: 90px;
+    margin-top: -13%;
+    float: right;
+    width: 300px;
+    height: 100px;
+}
+
+.hang2 a {
+    line-height: 30px;
+}
+
+.dich-vu {
+    margin-top: 110px;
+    float: left;
+    width: 100%;
+    min-height: 300px;
+    background-color: antiquewhite;
+}
+
+.dich-vu h4 {
+    margin-left: 10px;
+}
+
+.ho-tro {
+    float: left;
+    margin-left: 50px;
+    width: 23%;
+    height: 300px;
+    margin-top: 20px;
+}
+
+.text {
+    line-height: 30px;
+}
+
+.the-a {
+    margin-left: 10px;
+}
+
+.the-a a {
+    text-decoration: none;
+    color: black;
+}
+
+.the-a p:hover {
+    color: orangered;
+}
+
+.the-a p {
+    line-height: 16px;
+}
+
+.tro-giup {
+    margin-left: 60px;
+    width: 23%;
+    height: 300px;
+    float: left;
+    margin-top: 20px;
+}
+
+.tai-kh {
+    margin-left: -60px;
+    width: 23%;
+    height: 300px;
+    float: left;
+    margin-top: 20px;
+}
+
+.tai-kh a {
+    margin-top: 5px;
+    float: left;
+    margin-left: 5px;
+}
+
+.bookbuy {
+    width: 23%;
+    height: 300px;
+    float: left;
+    margin-top: 20px;
+}
+
+.ck {
+    float: left;
+    width: 100%;
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 10%;
+    margin-right: 20%;
+}
+
+.ck p {
+    float: left;
+    margin-top: 15px;
+}
+
+.ck img {
+    float: left;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+
+.fr p {
+    float: right;
+    margin-right: 2%;
+}
+
+.fr {
+    margin-right: 20%;
+}
+
+.fr img {
+    float: right;
+    margin-left: 5px;
+}

@@ -1,0 +1,845 @@
+    .cach {
+        margin: 5%;
+    }
+    
+    .top1 {
+        position: fixed;
+        top: 0px;
+        width: 100%;
+        height: 35px;
+        margin: 0;
+        background-color: gainsboro;
+    }
+    
+    .help img {
+        position: relative;
+        float: left;
+        padding-left: 10%;
+        margin-right: 10px;
+        padding-top: 6px;
+    }
+    
+    .help a {
+        position: relative;
+        text-decoration: none;
+        color: gray;
+        top: 6px;
+    }
+    
+    .tin-tuc img {
+        position: relative;
+        float: left;
+        padding-left: 120px;
+        bottom: 10px;
+        margin-right: 10px;
+    }
+    
+    .tin-tuc a {
+        position: relative;
+        text-decoration: none;
+        color: gray;
+        bottom: 10px;
+    }
+    
+    .sale {
+        position: absolute;
+        right: 37%;
+        bottom: 10px;
+    }
+    
+    .sale img {
+        margin-right: 8px;
+        padding-top: 10px;
+        float: left;
+    }
+    
+    .sale a {
+        text-decoration: none;
+        color: gray;
+        padding-top: 10px;
+        float: left;
+    }
+    
+    .log-in {
+        position: absolute;
+        right: 23%;
+        bottom: 10px;
+    }
+    
+    .log-out {
+        position: absolute;
+        right: 10%;
+        bottom: 10px;
+    }
+    
+    .log-in img {
+        margin-right: 8px;
+        padding-top: 10px;
+        float: left;
+    }
+    
+    .log-in a {
+        text-decoration: none;
+        color: gray;
+        float: left;
+        padding-top: 10px;
+    }
+    
+    .log-out a {
+        text-decoration: none;
+        color: gray;
+        float: left;
+        padding-top: 10px;
+    }
+    
+    .log-out img {
+        margin-right: 8px;
+        padding-top: 10px;
+        float: left;
+    }
+    
+    .top2 {
+        background-color: #f8f8f8;
+        width: 100%;
+        height: 70px;
+        margin: 0;
+    }
+    
+    .logo img {
+        padding: 10px 10px 30px 90px;
+    }
+    
+    .top2 .hotline {
+        position: absolute;
+        padding: 10px;
+        top: 80px;
+        width: 200px;
+        right: 25%;
+    }
+    
+    .hotline img {
+        float: left;
+        margin-left: 10px;
+        margin-top: 4px;
+    }
+    
+    .hotline h4 {
+        font-size: 19px;
+        margin-top: 0px;
+        float: left;
+        margin-left: 15px;
+        color: orange;
+    }
+    
+    .hotline p {
+        float: left;
+        margin-top: -10px;
+        margin-left: 56px;
+        margin-top: -25px;
+    }
+    
+    .do-hang img {
+        margin-top: -50px;
+        float: right;
+        margin-right: 15%;
+    }
+    
+    .do-hang a {
+        float: right;
+        margin-top: -45px;
+        margin-right: 9%;
+        color: black;
+        text-decoration: dashed;
+    }
+    
+    .tim-kiem {
+        position: absolute;
+        width: 500px;
+        height: 45px;
+        left: 353.22px;
+        top: 80px;
+        box-shadow: 0 0 2px;
+        border-radius: 5px;
+        padding-left: 15px;
+        padding-bottom: 5px;
+        background-color: white;
+    }
+    
+    .tim-kiem .ke {
+        position: absolute;
+        width: 50px;
+        height: 0px;
+        left: 50px;
+        border: 0.5px solid gainsboro;
+        transform: rotate(90deg);
+        top: 25px;
+    }
+    
+    .tim-kiem img {
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    
+    .tim-kiem h3 {
+        margin-top: -30px;
+        margin-left: 80px;
+        color: rgba(236, 219, 219, 0.836);
+    }
+    /* .top2 .search {
+        display: flex;
+        flex: 1;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        padding: 0 0.625 rem;
+        position: absolute;
+        margin-left: 353.22px;
+        margin-top: 80px;
+    }
+    
+    .shopee-searchbar-input__input {
+        display: flex;
+        flex: 1;
+        align-items: center;
+        outline: none;
+        border: 0;
+        padding: 0;
+        margin: 0;
+    } */
+    
+    .main-menu {
+        /* background-color: aqua; */
+        margin-left: 10%;
+        min-height: 50px;
+        min-width: 100px;
+        width: 20%;
+    }
+    
+    .main-menu img {
+        float: left;
+        margin-left: 5px;
+        margin-top: -5px;
+    }
+    
+    .main-menu ul {
+        color: black;
+    }
+    
+    .tieu-de-menu img {
+        margin-top: -0.5px;
+    }
+    
+    .main-menu>.slide-show img {
+        position: absolute;
+        margin-top: -10px;
+        right: 10%;
+        top: 200px;
+    }
+    
+    .slide-hang1 img {
+        right: 30px;
+        margin-top: 10px;
+        margin-left: 10%;
+        border-radius: 5px;
+    }
+    
+    .slide-hang1 .sl1 {
+        margin-left: 25px;
+        border-radius: 2px;
+    }
+    
+    .slide-hang1 .sl2 {
+        position: absolute;
+        right: 10%;
+    }
+    
+    .hang2 {
+        margin-top: 20px;
+    }
+    
+    .mr {
+        margin-right: 2%;
+    }
+    
+    .le {
+        margin-left: 10%;
+        margin-right: 8%;
+    }
+    
+    .box1 {
+        float: left;
+        width: 270px;
+        height: 500px;
+        background-color: whitesmoke;
+    }
+    
+    .gia {
+        color: orange;
+        font-size: 18px;
+        margin-left: 30px;
+        font-style: initial;
+    }
+    
+    .box2 p {
+        font-size: 16px;
+    }
+    
+    del {
+        margin-left: 10px;
+    }
+    
+    .box1 img {
+        margin: 10px;
+    }
+    
+    .box2 img {
+        margin: 10px;
+    }
+    
+    .box3 img {
+        margin: 10px;
+    }
+    
+    .box1 .gia {
+        margin-bottom: 10px;
+    }
+    
+    .box2 {
+        float: left;
+        width: 270px;
+        height: 500px;
+        background-color: whitesmoke;
+    }
+    
+    .box3 {
+        float: left;
+        width: 270px;
+        height: 500px;
+        background-color: whitesmoke;
+    }
+    
+    .box4 {
+        float: left;
+        width: 290px;
+        height: 500px;
+        background-color: whitesmoke;
+    }
+    
+    .box4 img {
+        margin: 10px;
+    }
+    
+    p {
+        margin: 10px;
+    }
+    
+    .hang2 h3 {
+        margin: 10px;
+    }
+    
+    .hang2 a {
+        float: right;
+        margin-top: -30px;
+        margin-right: 5px;
+        color: red;
+        text-decoration: none;
+        font-size: 18px;
+        font-style: inherit;
+    }
+    
+    .sp-sach img {
+        float: left;
+        margin: 20px;
+        margin-left: 35px;
+    }
+    
+    .sp-sach {
+        float: left;
+        width: 80%;
+        min-height: 100px;
+        background-color: antiquewhite;
+        border: 0.5px solid gray;
+        transform: matrix(180);
+    }
+    
+    .sp-sach1 {
+        float: left;
+        width: 18%;
+        height: 400px;
+    }
+    
+    .sp-sach1 p {
+        margin-left: 30px;
+        font-style: initial;
+    }
+    
+    .sp-sach1 a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    .sp-sach2 p {
+        margin-left: 30px;
+        font-style: initial;
+    }
+    
+    .sp-sach3 p {
+        margin-left: 30px;
+        font-style: initial;
+    }
+    
+    .sp-sach3 .gia-sp {
+        margin-top: 25px;
+    }
+    
+    .sp-sach4 p {
+        margin-left: 30px;
+        font-style: initial;
+    }
+    
+    .sp-sach5 p {
+        margin-left: 30px;
+        font-style: initial;
+    }
+    
+    .sp-sach2 .gia-sp {
+        color: orange;
+        font-size: 20px;
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+    
+    .gia-sp {
+        color: orange;
+        font-size: 20px;
+        margin-left: 30px;
+    }
+    
+    del {
+        margin-left: 30px;
+    }
+    
+    .sp-sach2 {
+        float: left;
+        width: 18%;
+        height: 400px;
+    }
+    
+    .sp-sach3 {
+        float: left;
+        width: 18%;
+        height: 400px;
+    }
+    
+    .sp-sach4 {
+        float: left;
+        width: 18%;
+        height: 400px;
+    }
+    
+    .sp-sach5 {
+        float: left;
+        width: 18%;
+        height: 400px;
+    }
+    
+    .mr-top {
+        margin-top: 20px;
+    }
+    
+    .sp-sach h2 {
+        margin-left: 20px;
+    }
+    
+    .sp-sach .thinh-hanh {
+        float: right;
+        margin-right: 40px;
+        margin-top: -50px;
+    }
+    
+    .thinh-hanh a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    .thinh-hanh a:hover {
+        text-decoration: underline;
+        color: orangered;
+    }
+    
+    .thinh-hanh .x {
+        color: red;
+        float: right;
+        margin-top: 0px;
+    }
+    
+    .vat-dung {
+        float: left;
+        width: 80%;
+        min-height: 100px;
+        margin-top: 20px;
+        border: 1px solid gray;
+    }
+    
+    .vat-dung h2 {
+        margin-left: 20px;
+    }
+    
+    .box-left {
+        float: right;
+        margin-right: 40px;
+        margin-top: -50px;
+    }
+    
+    .box-left a {
+        color: black;
+        text-decoration: none;
+    }
+    
+    .box-left a:hover {
+        text-decoration: underline;
+        color: orangered;
+    }
+    
+    .vat-dung img {
+        float: left;
+        margin-left: 30px;
+        margin-top: 20px;
+        margin: 50px;
+    }
+    
+    .sp-vd1 {
+        float: left;
+        width: 20%;
+        height: 320px;
+    }
+    
+    .hu:hover {
+        box-shadow: 0 0 5px gray;
+        float: left;
+    }
+    
+    .sp-vd1 img {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    
+    .sp-vd1 p {
+        margin-left: 20px;
+    }
+    
+    .sp-vd2 {
+        float: left;
+        width: 20%;
+        height: 320px;
+    }
+    
+    .sp-vd2 img {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    
+    .sp-vd2 p {
+        margin-left: 20px;
+        margin-bottom: 30px;
+    }
+    
+    .sp-vd3 {
+        float: left;
+        width: 20%;
+        height: 320px;
+    }
+    
+    .sp-vd3 img {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    
+    .sp-vd3 p {
+        margin-left: 20px;
+    }
+    
+    .sp-vd3 .gia-sp {
+        margin-top: 50px;
+    }
+    
+    .sp-vd4 {
+        float: left;
+        width: 20%;
+        height: 280px;
+    }
+    
+    .sp-vd4 img {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    
+    .sp-vd4 p {
+        margin-left: 20px;
+    }
+    
+    .sp-vd5 {
+        float: left;
+        width: 20%;
+        height: 280px;
+    }
+    
+    .sp-vd5 img {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    
+    .sp-vd5 p {
+        margin-left: 20px;
+    }
+    
+    .sp-vd6 {
+        float: left;
+        width: 20%;
+        height: 280px;
+    }
+    
+    .sp-vd6 img {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    
+    .sp-vd6 p {
+        margin-left: 20px;
+    }
+    
+    .sl-show2 img {
+        float: left;
+        width: 98%;
+        margin-top: 20px;
+    }
+    
+    .cong-nghe {
+        float: left;
+        width: 80%;
+        min-height: 100px;
+        margin-top: 20px;
+        border: 1px solid gray;
+    }
+    
+    .cong-nghe h2 {
+        margin-left: 20px;
+    }
+    
+    .box-left {
+        float: right;
+        margin-right: 40px;
+        margin-top: -50px;
+    }
+    
+    .box-left a {
+        color: black;
+        text-decoration: none;
+    }
+    
+    .box-left a:hover {
+        text-decoration: underline;
+        color: orangered;
+    }
+    
+    .cong-nghe img {
+        float: left;
+        margin-left: 30px;
+        margin-top: 20px;
+        margin: 50px;
+    }
+    
+    .cong-nghe span {
+        color: orange;
+    }
+    
+    .sp-vd1 {
+        float: left;
+        width: 20%;
+        height: 320px;
+    }
+    /* .hu:hover {
+        box-shadow: 0 0 3px red;
+    } */
+    
+    .sp-vd1 img {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    
+    .sp-vd1 .gia-sp1 {
+        margin-top: 50px;
+        margin-left: 20px;
+        font-size: 21px;
+        color: orange;
+    }
+    
+    .sp-vd1 p {
+        margin-left: 20px;
+    }
+    
+    .sp-vd2 {
+        float: left;
+        width: 20%;
+        height: 320px;
+    }
+    
+    .sp-vd2 img {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    
+    .sp-vd2 p {
+        margin-left: 20px;
+        margin-bottom: 30px;
+    }
+    
+    .sp-vd3 {
+        float: left;
+        width: 20%;
+        height: 320px;
+    }
+    
+    .sp-vd3 img {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    
+    .sp-vd3 p {
+        margin-left: 20px;
+    }
+    
+    .sp-vd3 .gia-sp {
+        margin-top: 50px;
+    }
+    
+    .sp-vd4 {
+        float: left;
+        width: 20%;
+        height: 280px;
+    }
+    
+    .sp-vd4 img {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    
+    .sp-vd4 p {
+        margin-left: 20px;
+    }
+    
+    .sp-vd5 {
+        float: left;
+        width: 20%;
+        height: 280px;
+    }
+    
+    .sp-vd5 img {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    
+    .sp-vd5 p {
+        margin-left: 20px;
+    }
+    
+    .sp-vd6 {
+        float: left;
+        width: 20%;
+        height: 280px;
+    }
+    
+    .sp-vd6 img {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    
+    .sp-vd6 p {
+        margin-left: 20px;
+    }
+    
+    .dich-vu h4 {
+        margin-left: 10px;
+    }
+    
+    .ho-tro {
+        width: 23%;
+        height: 300px;
+        float: left;
+        margin-top: 20px;
+    }
+    
+    .text {
+        line-height: 30px;
+    }
+    
+    .the-a {
+        margin-left: 10px;
+    }
+    
+    .the-a a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    .the-a p:hover {
+        color: orangered;
+    }
+    
+    .the-a p {
+        line-height: 16px;
+    }
+    
+    .tro-giup {
+        width: 23%;
+        height: 300px;
+        float: left;
+        margin-top: 20px;
+    }
+    
+    .tai-khoan {
+        width: 23%;
+        height: 300px;
+        float: left;
+        margin-top: 20px;
+    }
+    
+    .bookbuy {
+        width: 23%;
+        height: 300px;
+        float: left;
+        margin-top: 20px;
+    }
+    
+    .ck {
+        float: left;
+        width: 100%;
+        height: 50px;
+        margin-top: 40px;
+        margin-left: 10%;
+        margin-right: 20%;
+    }
+    
+    .ck p {
+        float: left;
+        margin-top: 15px;
+    }
+    
+    .ck img {
+        float: left;
+        margin-top: 5px;
+        margin-right: 10px;
+    }
+    
+    .fr p {
+        float: right;
+        margin-right: 2%;
+    }
+    
+    .fr {
+        margin-right: 20%;
+    }
+    
+    .fr img {
+        float: right;
+        margin-left: 5px;
+    }
